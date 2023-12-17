@@ -1,0 +1,29 @@
+body{
+    background-size: cover ;
+
+}
+.heading{
+    width: 100%;
+    font-size: 24px;
+    margin: 0;
+}
+#start, #status, #number_of_objects{
+    font-size: 20px;
+}
+.footer{
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    background-color: aquamarine;
+    color: blue;
+    text-align: left;
+    line-height: 2;
+}
+canvas{
+    border-width: 9px;
+    border-style: ridge;
+    border-color: aqua;
+margin-top: 120px;
+border-radius: 20px;
+box-shadow: 5px 5px 5px red;
+}
